@@ -1,0 +1,24 @@
+name: billwicker.reator
+layout_spectrum: 0.15495086247260093
+typography_spectrum: 0.43988575085917747
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.10785148988034099
+  lightness: 0.14779373678565444
+  saturation: 0.900537760157739
+  rhythmicContrast: 0.9451154433297309
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
